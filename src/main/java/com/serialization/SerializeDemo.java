@@ -12,7 +12,7 @@ import java.io.ObjectOutputStream;
 public class SerializeDemo {
     public static void main(String[] args){
         Employee e = new Employee();
-        e.name = "小鱼";
+        e.name = "小鱼同学";
         e.address = "杭州滨江阿里中心";
         e.SSN = 1111223;
         e.number = 110;
