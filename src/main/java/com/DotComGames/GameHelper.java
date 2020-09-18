@@ -12,6 +12,8 @@ public class GameHelper {
 //        System.out.println(param + ": ");
 //        String input = scanner.next();
 //        return input;
+
+
 //------------教材上的方法-------------------
         String inputLine = null;
         System.out.println(param + ": ");

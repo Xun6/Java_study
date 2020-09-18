@@ -39,6 +39,5 @@ public class SimpleDotComTestDrive {
         }
         //输出猜测次数
         System.out.println("总共猜测：" + numOfGuess+ " 次");
-
     }
 }
