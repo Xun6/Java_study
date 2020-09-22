@@ -6,7 +6,7 @@ public class DotComBust {
     //声明并初始化变量
     private GameHelper2 helper = new GameHelper2();
     private ArrayList<DotCom> myList = new ArrayList<DotCom>();
-    private int numOfGuesses = 0;
+    private int numOfGuesses = 0; //初始化猜测次数
 
     //Game开始前准备
     private void setUpGame(){
